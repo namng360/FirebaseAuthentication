@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseAuthentication</string>
+    <string name="facebook_application_id" translatable="false">935306676846451</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb935306676846451</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
